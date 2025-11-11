@@ -18,13 +18,21 @@ Loading and error handling states.
 Clean component structure and reusable API layer.
 
 Tech Stack
+
 Tool	Purpose
+
 React	UI rendering
+
 React Router v6	Client-side routing
+
 CSS Modules	Component-level styling
+
 Fetch API	HTTP requests
+
 Vite	Fast development build tool
+
 Project Structure
+
 src/
   api/
     characters.js
@@ -57,6 +65,7 @@ Notes
 
 Data is fetched from:
 https://hp-api.onrender.com/api/characters
+
 https://hp-api.onrender.com/api/spells
 
 No UI framework was used. Styling is implemented using regular CSS / CSS Modules.
