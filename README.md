@@ -34,20 +34,35 @@ Vite	Fast development build tool
 Project Structure
 
 src/
+
   api/
+
     characters.js
+
     spells.js
+
   components/
+
     Sidebar/
+
   pages/
+
     Characters/
+
     CharacterDetails/
+
     Spells/
+
   router/
+
     AppRouter.jsx
+
   App.jsx
+
   main.jsx
+
   index.css
+  
 
 Setup & Run
 # Install dependencies
