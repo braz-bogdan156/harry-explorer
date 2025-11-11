@@ -1,0 +1,8 @@
+.wrapper { 
+    display: flex; 
+    gap: 20px; 
+} 
+.wrapper img { 
+    width: 250px; 
+    border-radius: 8px; 
+}
