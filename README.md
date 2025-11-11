@@ -1,4 +1,4 @@
-Harry Potter Explorer
+# Harry Potter Explorer
 
 A small React application built to browse characters and spells from the public Harry Potter API.
 The project demonstrates routing, API requests, state management, and UI structure with reusable components.
@@ -65,6 +65,9 @@ src/
   
 
 Setup & Run
+
+cd harry-explorer
+
 # Install dependencies
 npm install
 
